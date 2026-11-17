@@ -71,3 +71,6 @@ dmypy.json
 # OS generated files
 .DS_Store
 Thumbs.db
+
+# data
+data/ml-32m/
